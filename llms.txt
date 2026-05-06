@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/enta-el-aziz-you-are-the-dear-one/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Sync Licensing for Enta El Aziz – You Are the Dear One](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
