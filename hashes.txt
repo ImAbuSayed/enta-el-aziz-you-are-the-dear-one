@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Enta El Aziz – You Are the Dear One
+
+This log tracks the cryptographic history and versioning for the song **Enta El Aziz – You Are the Dear One** (enta-el-aziz-you-are-the-dear-one).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T10:57:07.118479 | `v1` | `441c9e08f5b8ec8d257abfa857688cf03fae9fade44f4776b614c754e3bc3cc8` | `9b7bcffc715fede967e3b93367aae24faf23b27b4467eba4acb07306a7d387c9` | `2026-05-09_enta-el-aziz-you-are-the-dear-one-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
